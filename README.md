@@ -12,7 +12,7 @@ Este proyecto consiste de un sistema de notificaciones "toast" con animaciones e
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Notificaciones-Toast/):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Notificaciones_Toast/):
 
 <br>
 
